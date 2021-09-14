@@ -1,0 +1,4 @@
+﻿  LAB1_Zerebkovs_PV.cpp
+D:\Prog_Valodas\LAB1_Zerebkovs_PV\LAB1_Zerebkovs_PV.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Prog_Valodas\LAB1_Zerebkovs_PV\LAB1_Zerebkovs_PV.cpp(43,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  LAB1_Zerebkovs_PV.vcxproj -> D:\Prog_Valodas\LAB1_Zerebkovs_PV\Debug\LAB1_Zerebkovs_PV.exe
